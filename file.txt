@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 "update 1 in branch2" 
 "update 2 in branch2" 
 "update 3 in branch2" 
+=======
+"update 1 in branch1" 
+"update 2 in branch2" 
+"update 3 in branch1" 
+>>>>>>> branch1
