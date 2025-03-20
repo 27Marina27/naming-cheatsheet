@@ -1,3 +1,6 @@
 "Commit 1" 
+<<<<<<< HEAD
 "Commit 1" 
 "Commit 3" 
+=======
+>>>>>>> vetka2
